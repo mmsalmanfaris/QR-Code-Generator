@@ -1,0 +1,7 @@
+.qr-code {
+    display: none;
+}
+
+.qr-code.active{
+    display: block;
+}
