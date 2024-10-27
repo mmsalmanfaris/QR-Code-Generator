@@ -3,12 +3,12 @@
 
 # QR Code Generator
 
-This project is a simple **QR Code Generator** built using **HTML, CSS, and JavaScript**. The app allows users to generate a QR code based on any text or URL input and provides the option to download the generated QR code as a PNG image.
+This project is a simple QR Code Generator built using HTML, CSS, and JavaScript. The app allows users to generate a QR code based on any text or URL input and provides the option to download the generated QR code as a PNG image.
 
 ## Features
 
 - **Input URL/Text**: Users can enter any text or URL to generate a QR code.
-- **Generate QR Code**: The app uses an external API (`https://api.qrserver.com/v1/create-qr-code/`) to dynamically generate a QR code for the provided input.
+- **Generate QR Code**: The app uses an external API (`https://api.qrserver.com/v1/create-qr-code/`) to generate a QR code for the provided input dynamically.
 - **Download QR Code**: Once the QR code is generated, users can download the image to their device as a PNG file with just one click.
 - **Responsive Design**: The user interface is designed to be responsive and user-friendly on all devices.
 - **Smooth Transitions**: The app features smooth transitions when displaying the generated QR code.
@@ -46,12 +46,13 @@ This project is a simple **QR Code Generator** built using **HTML, CSS, and Java
 
 ## Screenshots
 
-![QR Code Generator Screenshot](/home/mmsalmanfaris/Pictures/Screenshots/Screenshot from 2024-10-23 21-14-07.png)
+Visit: https://digitalpartner.lk/tools/qr-code-generator.html
+
+![](https://github.com/user-attachments/assets/d0d99978-5532-4f82-94ae-14b7ee12921d)
+
 
 ## Contributions
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mmsalmanfaris/qr-code-generator/issues) if you want to contribute.
 
 ---
-
-You can customize the description, screenshots, and repository URLs as per your project details. Let me know if you need more additions or adjustments for the `README.md` file!
