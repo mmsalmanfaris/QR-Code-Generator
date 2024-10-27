@@ -8,8 +8,8 @@ This project is a simple QR Code Generator built using HTML, CSS, and JavaScript
 ## Features
 
 - **Input URL/Text**: Users can enter any text or URL to generate a QR code.
-- **Generate QR Code**: The app uses an external API (`https://api.qrserver.com/v1/create-qr-code/`) to dynamically generate a QR code for the provided input.
-- **Download QR Code**: Users can download the image to their device as a PNG file with just one click once the QR code is generated.
+- **Generate QR Code**: The app uses an external API (`https://api.qrserver.com/v1/create-qr-code/`) to generate a QR code for the provided input dynamically.
+- **Download QR Code**: Once the QR code is generated, users can download the image to their device as a PNG file with just one click.
 - **Responsive Design**: The user interface is designed to be responsive and user-friendly on all devices.
 - **Smooth Transitions**: The app features smooth transitions when displaying the generated QR code.
 
@@ -46,7 +46,10 @@ This project is a simple QR Code Generator built using HTML, CSS, and JavaScript
 
 ## Screenshots
 
-![QR Code Generator Screenshot](![QR Code Generator](https://github.com/user-attachments/assets/d0d99978-5532-4f82-94ae-14b7ee12921d))
+Visit: https://digitalpartner.lk/tools/qr-code-generator.html
+
+![](https://github.com/user-attachments/assets/d0d99978-5532-4f82-94ae-14b7ee12921d)
+
 
 ## Contributions
 
