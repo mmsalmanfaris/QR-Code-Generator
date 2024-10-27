@@ -9,12 +9,12 @@ generateBtn.addEventListener("click", () => {
 
     let qrValue = qrInput.value;
     if(!qrValue) return;
-    generateBtn.innerHTML = "Generating QR Code...";
-    qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=${qrValue}`;
+    generateBtn.innerHTML = "<i class='bi bi-arrow-clockwise'></i> Generating QR Code..."
+    qrImg.src = `https://api.qrserver.com/v1/create-qr-code/?size=220x22sdfsdfsdf0&data=${qrValue}`;
 
     qrImg.addEventListener("load", () => {
         qrCode.classList.add("active");
-        generateBtn.innerHTML = "Generate QR Code";
+        generateBtn.innerHTML = "Generate Again";
         downloadBtn.style.display = "block";
     })
 })
