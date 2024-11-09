@@ -8,8 +8,8 @@ This project is a simple QR Code Generator built using HTML, CSS, and JavaScript
 ## Features
 
 - **Input URL/Text**: Users can enter any text or URL to generate a QR code.
-- **Generate QR Code**: The app uses an external API (`https://api.qrserver.com/v1/create-qr-code/`) to generate a QR code for the provided input dynamically.
-- **Download QR Code**: Once the QR code is generated, users can download the image to their device as a PNG file with just one click.
+- **Generate QR Code**: The app uses an external API (`https://api.qrserver.com/v1/create-qr-code/`) to dynamically generate a QR code for the provided input.
+- **Download QR Code**: Users can download the image to their device as a PNG file with just one click once the QR code is generated.
 - **Responsive Design**: The user interface is designed to be responsive and user-friendly on all devices.
 - **Smooth Transitions**: The app features smooth transitions when displaying the generated QR code.
 
@@ -23,32 +23,19 @@ This project is a simple QR Code Generator built using HTML, CSS, and JavaScript
 ## Technologies Used
 
 - **HTML**: Markup for the structure of the app.
-- **CSS**: Styling the app, making it look clean and responsive.
+- **CSS[Bootstrap]**: Styling the app, making it look clean and responsive.
 - **JavaScript**: Adding interactivity, such as generating the QR code and downloading the image.
 - **QR Code API**: The app uses `https://api.qrserver.com/v1/create-qr-code/` to dynamically generate the QR codes based on the input.
 
 ## Usage
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/qr-code-generator.git
-    cd qr-code-generator
-    ```
+Visit: https://digitalpartner.lk/tools/qr-code-generator.html
 
-2. Open the `index.html` file in a web browser:
-    ```bash
-    open index.html
-    ```
-
-3. Input any text or URL and click **Generate QR Code**.
-
-4. Once the QR code is generated, click **Download QR Code** to save it to your device.
 
 ## Screenshots
 
-Visit: https://digitalpartner.lk/tools/qr-code-generator.html
+![Screenshot from 2024-11-09 17-20-48](https://github.com/user-attachments/assets/242149ed-ca09-4675-b0c6-f776068cf7ba)
 
-![](https://github.com/user-attachments/assets/d0d99978-5532-4f82-94ae-14b7ee12921d)
 
 
 ## Contributions
